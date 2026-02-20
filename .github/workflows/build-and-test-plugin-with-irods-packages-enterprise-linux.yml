@@ -180,4 +180,4 @@ jobs:
             --irods-package-directory ../build_artifacts/_build_irods \
             --plugin-package-directory .. \
             --discard-logs \
-            -v
+            -vvv
